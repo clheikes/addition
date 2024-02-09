@@ -1,4 +1,4 @@
-module github.com/clheikes/addition
+module github.com/clheikes/addition/v2
 
 go 1.21.4
 
